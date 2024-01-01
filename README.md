@@ -67,7 +67,7 @@ ___
 <img alt="Nícolas Overview Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas-A-Araujo&theme=midnight_purple"/></img>
 <br>
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update01-->
 <h6>Last Updated: Wednesday, April 13h, 2024, 10:00:00 PM<h6>
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
