@@ -1,4 +1,4 @@
-# ☕ HELLO, I'm Nícolas Alencar
+# ☕ Hi, I'm Nícolas Alencar
 
 <p align="left">
   <a href="https://git.io/typing-svg">
