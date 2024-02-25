@@ -35,7 +35,7 @@ ___
   <a href="https://www.figma.com/"><img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/figma"/></a><br>
 </p>
 
-___
+#
 
 ### 📋Github Status
 <table>
@@ -54,3 +54,21 @@ ___
     </td>
   ></tr>
 </table>
+
+#
+
+<details open>
+<summary><h3> -Some graphics<h3></summary>
+
+<h3>Daily Graph</h3>
+<img alt="Nícolas Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=Nicolas-A-Araujo&theme=tokyo-night&hide_border=true"/></a>
+<br/>
+    
+<h3>Overview Graph</h3>
+<img alt="Nícolas Overview Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas-A-Araujo&theme=midnight_purple"/></img>
+<br>
+
+<!--RECENT_ACTIVITY:last_update-->
+<h6>Last Updated: Saturday, February 24th, 2024, 13:11:02 PM<h6>
+<!--RECENT_ACTIVITY:last_update_end-->
+</details>
