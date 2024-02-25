@@ -19,7 +19,7 @@
 
 ___
 
-### 🧰 Programming Languages and Tools
+### 📌 Programming Languages and Tools
     
 <p >
   <a href="https://python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
@@ -69,6 +69,6 @@ ___
 <br>
 
 <!--RECENT_ACTIVITY:last_update-->
-<h6>Last Updated: Saturday, February 24th, 2024, 13:11:02 PM<h6>
+<h6>Last Updated: Saturday, February 25th, 2024, 11:05:32 PM<h6>
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
