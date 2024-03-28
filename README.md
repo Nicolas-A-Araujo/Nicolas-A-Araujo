@@ -56,8 +56,8 @@ ___
 </table>
 
 #
-<summary><h3> -Some graphics<h3></summary>
-<details open>
+
+<details open><summary><h3> -Some graphics<h3></summary>
 
 <h3>Daily Graph</h3>
 <img alt="Nícolas Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=Nicolas-A-Araujo&theme=tokyo-night&hide_border=true"/></a>
