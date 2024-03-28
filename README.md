@@ -57,7 +57,7 @@ ___
 
 #
 
-<details open><summary><h3> -Some graphics<h3></summary>
+<details open><summary><h3> --Some graphics<h3></summary>
 
 <h3>Daily Graph</h3>
 <img alt="Nícolas Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=Nicolas-A-Araujo&theme=tokyo-night&hide_border=true"/></a>
@@ -71,4 +71,3 @@ ___
 <h6>Last Updated: Thursday, March 28h, 2024, 11:40:38 PM<h6>
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
-##
